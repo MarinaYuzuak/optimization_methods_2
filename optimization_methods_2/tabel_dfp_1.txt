@@ -1,0 +1,1 @@
+prec (x0, y0) k f_k (x,y) f(x,y)

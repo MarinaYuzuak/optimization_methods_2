@@ -1,0 +1,1 @@
+i,(xi;yi),f(xi;yi),(s1;s2),lambda,|xk+1-xk|,|yk+1-yk|,|fk+1-fk|,(xi;yi)^(s1;s2),H
